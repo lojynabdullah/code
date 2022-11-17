@@ -1,0 +1,27 @@
+ int[] Scour = {50, 60, 40, 10, 38, 65, 87, 56, 90, 100, 66, 80, 88, 40, 98};
+//        for (int n : Scour) {
+//            if (n >= 90) {
+//                System.out.println("A" + n);
+//            } else if (n >= 80) {
+//                System.out.println("B" + n);
+//            } else if (n >= 70) {
+//                System.out.println("c" + n);
+//            } else if (n >= 60) {
+//                System.out.println("D" + n);
+//            } else {
+//                System.out.println("F" + n);
+//
+//            }
+//            String[] name = {"Shaza", "Mohamed", "Asmaa", "Anfal", "Yousra", "Amin", "Radwa", "Yasmeen"};
+//            for (String l : name) {
+//                if (l.startsWith("A")) {
+//                    System.out.println(l);
+
+
+                //}
+                int[] num={50,60,40,10,38,65,87,56,90,100,66,80,88,40,98};
+                for (int k:num) {
+                    if(k>=50){
+                        System.out.println(k);
+
+                }
